@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms for practice using C
+Algorithms for practice using C/Python/JS
